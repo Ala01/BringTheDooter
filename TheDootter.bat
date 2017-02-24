@@ -1,3 +1,3 @@
-cd C:/Users/Alun/Desktop/Alan/FATEC/TCC/dootter/Incializadores
+cd /Incializadores
 start AbreMongo.bat
 start InicializaServidorNode.bat
